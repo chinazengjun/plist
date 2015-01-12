@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://4ye.lezhiyun.com/download/fleaf-dev.ipa</string>
+					<string>http://upgrade.lezhiyun.com:80/downloadApp/download?type=update&id=08d843c047ae4e1196e93945a4b1cf7f</string>
 				</dict>
 			</array>
 			<key>metadata</key>
